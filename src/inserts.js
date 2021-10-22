@@ -1,0 +1,5 @@
+db.coleccion01.deleteMany({})
+db.coleccion01.insertOne({nombre: "pepe", edad: 20  })
+db.coleccion01.insertOne({nombre: "paco", edad: 69  })
+db.coleccion01.insertOne({nombre: "antonio", edad: 13  })
+db.coleccion01.insertOne({nombre: "adolfo", edad: 54  })
